@@ -2,12 +2,12 @@
  * @Authors: Guojun Wang
  * @Date: 1970-01-01 08:00:00
  * @LastEditors: Guojun Wang
- * @LastEditTime: 2020-09-27 16:46:47
+ * @LastEditTime: 2020-09-27 16:48:34
  -->
 # PointCloud Verifing Tool
 Tool for verifing semantic annotaion and bounding box annotation.
-![](https://github.com/wangguojun2018/AnnotationVerifier/blob/master/data/bbox.png)
-![](https://github.com/wangguojun2018/AnnotationVerifier/blob/master/data/semantic.png)
+![bbox复核](https://github.com/wangguojun2018/AnnotationVerifier/blob/master/data/bbox.png)
+![semantic复核](https://github.com/wangguojun2018/AnnotationVerifier/blob/master/data/semantic.png)
 
 用于复核已经标注好的3D语义标注和边界框标注
 

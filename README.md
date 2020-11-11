@@ -2,7 +2,7 @@
  * @Authors: Guojun Wang
  * @Date: 1970-01-01 08:00:00
  * @LastEditors: Guojun Wang
- * @LastEditTime: 2020-09-27 16:48:34
+ * @LastEditTime: 2020-11-11 14:51:00
  -->
 # PointCloud Verifing Tool
 Tool for verifing semantic annotaion and bounding box annotation.
@@ -47,6 +47,12 @@ semantic_verifier
 ```bash
 cd build
 ./semantic_verifier -pcd ../data/semantic/pcd/ -label ../data/semantic/label/
+```
+
+json2txt
+```bash
+cd data
+./json2txt --json-file json格式的label文件 --txt-dir txt格式label文件的输出目录 
 ```
 ## Folder structure
 
